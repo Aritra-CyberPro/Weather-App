@@ -30,10 +30,9 @@ To run this project, you will need to add the following environment variables to
 Create a folder and open terminal and install this project by
 command 
 ```bash
-https://github.com/Aritra-ISS/Weather-App.git
+https://github.com/Aritra-CyberPro/Weather-App.git
 
 ```
-or simply download this project from https://github.com/Aritra-ISS/Weather-App.git
 In project directory Create a virtual environment(say env)
 
 ```bash
@@ -74,5 +73,5 @@ Then go to http://127.0.0.1:8000 in your browser to see the project
 
 ## Author
 
-- [@Aritra-ISS](https://github.com/Aritra-ISS)
+- [@Aritra](https://github.com/Aritra-CyberPro)
 
